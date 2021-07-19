@@ -19,6 +19,8 @@ console.log("here")
 
 console.log("here")
 
+console.log("here")
+
 mongoose.connect(
   process.env.MONGODB_URI || 'mongodb://localhost/budget',
   {
